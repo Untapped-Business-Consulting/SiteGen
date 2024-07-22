@@ -1,1 +1,1 @@
-# SiteGen
+# landing page for UBC
