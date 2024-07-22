@@ -1,1 +1,1 @@
-# landing page for UBC
+# LandingPage
